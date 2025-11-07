@@ -3,7 +3,7 @@
   tasks:
     - name: IBM MQ
       debug:
-        msg: |
+        msg: 
           {
             "HEALTHCHECK": "NOK",
             "DIAGNÓSTICO": [
